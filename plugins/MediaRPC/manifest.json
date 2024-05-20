@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "DiscordRPC",
+    "description": "Show media playback status from Android notifications as Discord RPC.",
     "authors": [
         {
             "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "id": "1146944562951106721"
         }
     ],
     "main": "src/index.ts",

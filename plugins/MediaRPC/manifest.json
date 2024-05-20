@@ -1,8 +1,7 @@
 {
-    "name": "MediaRPC",
-    "description": "Show media playback status from Android notifications as Discord RPC.",
-    "main": "src/index.ts",
-    "vendetta": {
-        "icon": "ic_media_play"
-    }
+  "name": "MediaRPC",
+  "description": "Show media playback status from Android notifications as Discord RPC",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "main": "src/index.js"
 }

@@ -1,5 +1,5 @@
-
 import { registerSettings } from 'vendetta-plugin';
+import * as React from 'react';
 
 const settings = {
   enabled: true,

@@ -1,4 +1,3 @@
-
 import { extractMediaInfo } from './utils';
 import { setRPC } from './modules';
 import { getSettings } from './ui/pages/settings';

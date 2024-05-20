@@ -1,3 +1,7 @@
+import { plugin } from "@vendetta";
+import { FluxDispatcher } from "@vendetta/metro/common";
+
+import { lazy } from "react";
 
 import { handleNotification } from './manager';
 

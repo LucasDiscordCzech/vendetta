@@ -1,1 +1,1 @@
-{"name":"DiscordRPC","description":"Show media playback status from Android notifications as Discord RPC.","authors":[{"name":"You!","id":"1146944562951106721"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"hash":"c681987e22ce8511f4b59d7cb617008cd26e10c073ab9d75d347754754d23e88"}
+{"name":"MediaPC","description":"Show media playback status from Android notifications as Discord RPC.","authors":[{"name":"You!","id":"1146944562951106721"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"hash":"c681987e22ce8511f4b59d7cb617008cd26e10c073ab9d75d347754754d23e88"}
